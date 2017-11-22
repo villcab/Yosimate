@@ -2,7 +2,7 @@
 <!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 
 <svg
-   xmlns:ns="&amp;ns_sfw;"
+   xmlns:ns="http://ns.adobe.com/SaveForWeb/1.0/"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -18,10 +18,10 @@
    viewBox="220.7 -63.9 200 200"
    enable-background="new 220.7 -63.9 256 256"
    xml:space="preserve"
-   sodipodi:docname="Android_Studio_icon (2).svg"
+   sodipodi:docname="android-studio.svg"
    width="200"
    height="200"
-   inkscape:version="0.92.1 unknown"><defs
+   inkscape:version="0.92.2 (unknown)"><defs
      id="defs162" /><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -35,9 +35,9 @@
      inkscape:window-height="1059"
      id="namedview160"
      showgrid="false"
-     inkscape:zoom="0.921875"
-     inkscape:cx="165.9661"
-     inkscape:cy="128"
+     inkscape:zoom="2.6074563"
+     inkscape:cx="151.88665"
+     inkscape:cy="69.195529"
      inkscape:window-x="1366"
      inkscape:window-y="21"
      inkscape:window-maximized="1"
