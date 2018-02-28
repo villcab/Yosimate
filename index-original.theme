@@ -36,6 +36,7 @@ MaxSize=512
 Type=Scalable
 
 # Animations
+
 [GnomeYosemiteIcons/24x24/animations]
 Context=Animations
 Size=24
@@ -512,3 +513,5 @@ Type=Scalable
 
 
 
+[Desktop Entry]
+Name[en_US]=indexbk.theme
