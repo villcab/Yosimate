@@ -1,54 +1,209 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
-    <defs>
-        <linearGradient x1="0%" y1="50%" x2="99.7986577%" y2="50%" id="linearGradient-1">
-            <stop stop-color="#F97A12" offset="26%"></stop>
-            <stop stop-color="#B07B58" offset="46%"></stop>
-            <stop stop-color="#577BAE" offset="72%"></stop>
-            <stop stop-color="#1E7CE5" offset="91%"></stop>
-            <stop stop-color="#087CFA" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="0.344827586%" y1="34.5396825%" x2="121.182266%" y2="77.6190476%" id="linearGradient-2">
-            <stop stop-color="#F97A12" offset="0%"></stop>
-            <stop stop-color="#CB7A3E" offset="7%"></stop>
-            <stop stop-color="#9E7B6A" offset="15%"></stop>
-            <stop stop-color="#757B91" offset="24%"></stop>
-            <stop stop-color="#537BB1" offset="33%"></stop>
-            <stop stop-color="#387CCC" offset="43%"></stop>
-            <stop stop-color="#237CE0" offset="54%"></stop>
-            <stop stop-color="#147CEF" offset="66%"></stop>
-            <stop stop-color="#0B7CF7" offset="79%"></stop>
-            <stop stop-color="#087CFA" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="78.1690141%" y1="97.7493606%" x2="30.1056338%" y2="-6.62404092%" id="linearGradient-3">
-            <stop stop-color="#FE315D" offset="0%"></stop>
-            <stop stop-color="#CB417E" offset="8%"></stop>
-            <stop stop-color="#9E4E9B" offset="16%"></stop>
-            <stop stop-color="#755BB4" offset="25%"></stop>
-            <stop stop-color="#5365CA" offset="34%"></stop>
-            <stop stop-color="#386DDB" offset="44%"></stop>
-            <stop stop-color="#2374E9" offset="54%"></stop>
-            <stop stop-color="#1478F3" offset="66%"></stop>
-            <stop stop-color="#0B7BF8" offset="79%"></stop>
-            <stop stop-color="#087CFA" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="20%" y1="24.0865385%" x2="103.421589%" y2="132.676282%" id="linearGradient-4">
-            <stop stop-color="#FE315D" offset="0%"></stop>
-            <stop stop-color="#F63462" offset="4%"></stop>
-            <stop stop-color="#DF3A71" offset="10%"></stop>
-            <stop stop-color="#C24383" offset="17%"></stop>
-            <stop stop-color="#AD4A91" offset="29%"></stop>
-            <stop stop-color="#755BB4" offset="55%"></stop>
-            <stop stop-color="#1D76ED" offset="92%"></stop>
-            <stop stop-color="#087CFA" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-	<g>
-		<polygon fill="url(#linearGradient-1)" points="64.8 199.6 2.8 150.8 33.6 93.6 122 128"></polygon>
-		<polygon fill="url(#linearGradient-2)" points="256 68.4 251.2 216.4 152.8 256 93.6 217.6 180 128 142.4 44.8 176.4 4"></polygon>
-		<polygon fill="url(#linearGradient-3)" points="256 68.4 178 160.4 142.4 44.8 176.4 4"></polygon>
-		<polygon fill="url(#linearGradient-4)" points="123.2 212.4 20.8 249.6 37.2 192 58.4 120.8 0 101.2 37.2 0 117.2 9.6 196.4 100"></polygon>
-		<rect fill="#000000" x="48" y="48" width="160" height="160"></rect>
-		<path d="M63.2,178 L123.2,178 L123.2,188 L63.2,188 L63.2,178 Z M106,80.8 L106,68.8 L73.2,68.8 L73.2,80.8 L82.4,80.8 L82.4,122.8 L73.2,122.8 L73.2,135.2 L106,135.2 L106,122.8 L96.8,122.8 L96.8,80.8 L106,80.8 Z M138,136 C133.433351,136.205984 128.889763,135.242193 124.8,133.2 C121.453966,131.354025 118.472002,128.914237 116,126 L125.2,115.6 C126.861272,117.42513 128.742265,119.03741 130.8,120.4 C132.73613,121.535124 134.957474,122.09046 137.2,122 C139.666127,122.188479 142.064692,121.139107 143.6,119.2 C145.452667,116.813942 146.312461,113.804666 146,110.8 L146,68 L160.8,68 L160.8,111.2 C160.951789,114.737935 160.408195,118.271293 159.2,121.6 C158.144579,124.977032 156.212191,128.013641 153.6,130.4 C149.066749,133.765567 143.638763,135.714074 138,136 Z" fill="#FFFFFF"></path>
-	</g>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200"
+   height="200"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg55"
+   sodipodi:docname="idea.svg"
+   inkscape:version="0.92.4 (unknown)">
+  <metadata
+     id="metadata59">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     id="namedview57"
+     showgrid="false"
+     inkscape:zoom="2.6074563"
+     inkscape:cx="85.089879"
+     inkscape:cy="114.83274"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg55" />
+  <defs
+     id="defs31">
+    <linearGradient
+       id="idea-b"
+       x1="21.245029"
+       x2="5.1031642"
+       y1="49.975925"
+       y2="40.574638"
+       gradientTransform="scale(1.0604178,0.94302455)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#2773E7"
+         id="stop2" />
+      <stop
+         offset="100%"
+         stop-color="#FC801D"
+         id="stop4" />
+    </linearGradient>
+    <polygon
+       id="idea-a"
+       points="30.501,32 8.401,23.399 0.701,37.7 16.201,49.9 " />
+    <linearGradient
+       id="idea-c"
+       x1="65.305542"
+       x2="43.935371"
+       y1="47.08028"
+       y2="15.163856"
+       gradientTransform="scale(0.80277934,1.2456723)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#2773E7"
+         id="stop8" />
+      <stop
+         offset="100%"
+         stop-color="#9039D0"
+         id="stop10" />
+    </linearGradient>
+    <linearGradient
+       id="idea-d"
+       x1="55.939098"
+       x2="55.939098"
+       y1="0.87596154"
+       y2="26.631031"
+       gradientTransform="scale(0.87596154,1.1416026)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#2773E7"
+         id="stop13" />
+      <stop
+         offset="100%"
+         stop-color="#9039D0"
+         id="stop15" />
+    </linearGradient>
+    <linearGradient
+       id="idea-e"
+       x1="30.802019"
+       x2="16.147993"
+       y1="16.892485"
+       y2="59.154137"
+       gradientTransform="scale(0.88705975,1.1273198)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#FE2857"
+         id="stop18" />
+      <stop
+         offset="100%"
+         stop-color="#9039D0"
+         id="stop20" />
+    </linearGradient>
+    <linearGradient
+       id="idea-g"
+       x1="32"
+       x2="32"
+       y1="7.3527999"
+       y2="36.2356"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#A6A5A5"
+         id="stop23" />
+      <stop
+         offset="0%"
+         stop-color="#989898"
+         stop-opacity=".568"
+         id="stop25" />
+      <stop
+         offset="100%"
+         id="stop27" />
+    </linearGradient>
+    <polygon
+       id="idea-f"
+       points="52,12 12,12 12,52 52,52 " />
+  </defs>
+  <g
+     id="g53"
+     style="fill:none;fill-rule:evenodd"
+     transform="matrix(3.1249512,0,0,3.1250488,0,1.8488e-6)">
+    <use
+       xlink:href="#idea-a"
+       id="use33"
+       style="fill:#f97a12"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       xlink:href="#idea-a"
+       id="use35"
+       style="fill:url(#idea-b)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <polygon
+       points="45.001,32.001 23.401,54.4 38.201,63.999 62.801,54.099 64.001,17.101 44.101,1 35.601,11.2 "
+       id="polygon37"
+       style="fill:url(#idea-c)" />
+    <polygon
+       points="34,13 44.5,40.099 64.001,17.101 44.101,1 "
+       id="polygon39"
+       style="fill:url(#idea-d)" />
+    <polygon
+       points="9.301,0 0,25.3 14.6,30.2 9.301,48 5.201,62.4 31,54 49.101,25 29.301,2.399 "
+       id="polygon41"
+       style="fill:url(#idea-e)" />
+    <use
+       xlink:href="#idea-f"
+       id="use43"
+       style="fill:#000000"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       xlink:href="#idea-f"
+       id="use45"
+       style="fill:url(#idea-g)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <polygon
+       points="16,47 31,47 31,44.5 16,44.5 "
+       id="polygon47"
+       style="fill:#ffffff" />
+    <path
+       d="m 26.0898,31.7417 2.415,-2.688 c 0.995,1.095 1.966,1.742 3.186,1.742 1.443,0 2.605,-0.871 2.605,-2.887 v -10.909 h 3.704 v 11.084 c 0,2.065 -0.615,3.608 -1.661,4.654 -1.07,1.069 -2.647,1.617 -4.539,1.617 -2.714,0 -4.516,-1.195 -5.71,-2.613"
+       id="path49"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
+    <polygon
+       points="24,34 24,30.825 21.756,30.825 21.756,20.072 24,20.072 24,17 16,17 16,20.072 18.244,20.072 18.244,30.825 16,30.825 16,34 "
+       id="polygon51"
+       style="fill:#ffffff" />
+  </g>
 </svg>
